@@ -26,11 +26,11 @@ Para instalar e executar esta API localmente, siga os passos abaixo:
 a aplicação estará rodando na Porta 8081
 
 ## Endpoints da API
-- `Listar todas as Tarefas`
+* `Listar todas as Tarefas`
 - Metodo Get
 - Retorna todas as tarefas salvas no banco de dados
 
-- `Criar Tarefa`
+* `Criar Tarefa`
 - Método POST
 - Criar Tarefa para salvar no banco de dados
 - Body:
@@ -42,7 +42,7 @@ a aplicação estará rodando na Porta 8081
     "completed": false
   }
   ```
-- `Atualizar Tarefa`
+* `Atualizar Tarefa`
 - Método PUT
 - Atualizar um Dado já criado no Banco de dados
 - Body:
@@ -54,6 +54,6 @@ a aplicação estará rodando na Porta 8081
     "completed": false
   }
   ```
-- `Deleta Tarefa`
+* `Deleta Tarefa`
 - Método Delete
 - Deletar um dado já criado e salvado no Banco de dados.
