@@ -15,7 +15,7 @@ Para instalar e executar esta API localmente, siga os passos abaixo:
 
 1. Clone o repositório:
    ```bash
-   git clone [URL_DO_REPOSITORIO]
+   git clone [[URL_DO_REPOSITORIO](https://github.com/jcr04/ToDoList.Java.git)]
    ```
 2. ```bash
    cd ToDoList.Java
